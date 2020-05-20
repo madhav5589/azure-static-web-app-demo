@@ -10,7 +10,7 @@
       <h2 class="title">Resources</h2>
       <ul>
         <li>
-          <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
+          <a href="https://github.com/madhav5589/azure-static-web-app-demo">
             Code in GitHub
           </a>
         </li>

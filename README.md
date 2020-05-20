@@ -6,7 +6,7 @@ languages:
 products:
   - azure functions
 description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
-urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'
+urlFragment: 'https://github.com/madhav5589/azure-static-web-app-demo'
 ---
 
 # Official Microsoft Sample
@@ -23,15 +23,15 @@ The apps written in the following JavaScript frameworks/libraries:
 
 | folder          | Description                                                                                                 |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
-| **angular-app** | [Sample Angular app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/angular-app)         |
-| **api-starter** | [Sample Azure Functions app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/api-starter) |
-| **react-app**   | [Sample React app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/react-app)             |
-| **svelte-app**  | [Sample Svelte app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/svelte-app)           |
-| **vue-app**     | [Sample Vue app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/vue-app)                 |
+| **angular-app** | [Sample Angular app](https://github.com/madhav5589/azure-static-web-app-demo/blob/master/angular-app)         |
+| **api-starter** | [Sample Azure Functions app](https://github.com/madhav5589/azure-static-web-app-demo/blob/master/api-starter) |
+| **react-app**   | [Sample React app](https://github.com/madhav5589/azure-static-web-app-demo/blob/master/react-app)             |
+| **svelte-app**  | [Sample Svelte app](https://github.com/madhav5589/azure-static-web-app-demo/blob/master/svelte-app)           |
+| **vue-app**     | [Sample Vue app](https://github.com/madhav5589/azure-static-web-app-demo/blob/master/vue-app)                 |
 
 ## Problems or Suggestions
 
-[Open an issue here](https://github.com/MicrosoftDocs/mslearn-staticwebapp/issues)
+[Open an issue here](https://github.com/madhav5589/azure-static-web-app-demo/issues)
 
 ## Resources
 
